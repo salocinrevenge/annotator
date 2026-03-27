@@ -1,4 +1,4 @@
-# annotator
+# Annotator
 Ferramentas úteis para anotações de datasets
 
 git clone por:
@@ -12,6 +12,7 @@ python3 -m venv .venv
 source .venv/bin/activate
 
 ```
+## Visualizador
 
 Para utilizar a ferramenta de visualização de anotações use:
 ```
